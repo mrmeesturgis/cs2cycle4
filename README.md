@@ -1,9 +1,9 @@
-# cs_template
+# Mini IA: Random Phrase Generator
 
-This is the readme file for your repository. It is a markdown file. Markdown files are common in computer science because they allow for a clean, html friendly file format. 
+Please use the notebook to work with your group and create a product that is a random phrase generator. In order to have a complete submission you need to have the following. 
 
-> This is a blockquote.
 
-`This is code snippet` 
+* A product--your code--which runs and (presumably) generates what the client desires. 
+* Documentation that includes the following: (1) a record of the tasks needed to make the product (2) a brief description of the techniques used to develop the product. (3) an evaluation of the success of your product (4) recommendations for further improvement. 
 
-[link to google classroom](https://classroom.google.com/)
+The documentation may be in paragraph/narrative format, or where appropriate may be presented in bullet points. 
